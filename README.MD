@@ -3,7 +3,7 @@ splitImageFract
 
 ETNA package attached to the paper:
 
-_Andrea Azzarelli and Alessandro Buccini _
+_Andrea Azzarelli and Alessandro Buccini_
 **A variational model for glyph extraction, theoretical aspects and implementation**
 ETNA Volume ...
 
@@ -98,8 +98,3 @@ In the real Dataset are present the following parameters:
 -mu: vector of parameters to be tested
 
 ---
-
-PACKAGE UPDATES
----------------
-Package updates (if available) can be found at:
-[link](https://sites.google.com/site/alessandobuccini/home)
